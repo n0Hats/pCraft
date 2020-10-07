@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import setuptools
 from distutils.core import setup
 import os
